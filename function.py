@@ -1,0 +1,5 @@
+def newFunction():
+    a=5
+    b=6
+    print(a+b)
+newFunction()
